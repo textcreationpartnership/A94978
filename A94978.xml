@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True and sad relation of the burning, sinking, and blowing up of the English ships in the river of Thames, on Thursday and Fryday last. With the manner how one of them floted up to the bridge in a flaming fire, and there gave a most terrible and dreadful blow with gunpowder, renting the houses, splitting the boats, and tearing of divers limb from limb. With the names and number of the men women, and children, that suffered in this dismall, and woful accident: some having their brains dasht against the walls: others, their legs and arms shot off: and divers lamentably mortifi'd, to the great astonishment of many thousands. Likewise, the discovery of a desperate and dangerous conspiracie upon the river; and the apprehending of a gentleman on Fryday night last, with divers granadoes and fire-works.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94978</idno>
+            <idno type="STC">Wing T2579</idno>
+            <idno type="STC">Thomason E805_9</idno>
+            <idno type="STC">ESTC R207382</idno>
+            <idno type="EEBO-CITATION">99866437</idno>
+            <idno type="PROQUEST">99866437</idno>
+            <idno type="VID">167878</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94978)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 167878)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 122:E805[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True and sad relation of the burning, sinking, and blowing up of the English ships in the river of Thames, on Thursday and Fryday last. With the manner how one of them floted up to the bridge in a flaming fire, and there gave a most terrible and dreadful blow with gunpowder, renting the houses, splitting the boats, and tearing of divers limb from limb. With the names and number of the men women, and children, that suffered in this dismall, and woful accident: some having their brains dasht against the walls: others, their legs and arms shot off: and divers lamentably mortifi'd, to the great astonishment of many thousands. Likewise, the discovery of a desperate and dangerous conspiracie upon the river; and the apprehending of a gentleman on Fryday night last, with divers granadoes and fire-works.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>for G. Horton,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 22.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fires --  England --  London --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:167878:1" rendition="simple:additions"/>
+            <p>A true and ſad RELATION OF The burning, ſinking, and blowing up of the Engliſh ſhips in the River of Thames, on <hi>Thurſday</hi> and <hi>Fryday</hi> laſt.</p>
+            <p>With the manner how one of them floted up to the Bridge in a flaming fire, and there gave a moſt terrible and dreadful Blow with Gunpowder, renting the houſes, ſplitting the Boats, and tearing of divers limb from limb.</p>
+            <p>With the Names and Number of the men women, and children, that ſuffered in this diſ<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, and woful Accident: ſome having their brains daſht againſt the walls: Others, their Legs and Arms ſhot off: And divers lamentably mortifi'd, to the great aſtoniſhment of many Thouſands.</p>
+            <p>Likewiſe, the Diſcovery of a deſperate and dangerous Conſpiracie upon the River; and the apprehending of a Gentleman on <hi>Fryday</hi> night laſt, with divers Granadoes and Fire-works.</p>
+            <p>Imprinted at <hi>London</hi> for <hi>G. Horton,</hi> 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:167878:2"/>
+            <pb n="3" facs="tcp:167878:2"/>
+            <p>
+               <seg rend="decorInit">O</seg>N Thurſday being the 20 of this inſtant July, a Merchants ſhip la<g ref="char:EOLhyphen"/>den with Cloth, and other Com<g ref="char:EOLhyphen"/>modities, being bound for Bilbo in Spain, and from thence to the Barbadoes, was to the great grief of many hundreds acciden<g ref="char:EOLhyphen"/>taly ſet on fire, whoſe violent flames brake ſo dreadfuly forth, that neither Mariner, Waterman, nor others, could by no means poſſible alay or quench the fury and vehe<g ref="char:EOLhyphen"/>mency thereof; inſomuch, that every man was conſtrained to look out for deliverance and none durſt at laſt attempt a preſervati<g ref="char:EOLhyphen"/>on of the Veſſel, ſo that ſhe was expoſed to a deſtructive floting, from towards Dep<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ford to London bridge, where it pleaſed di<g ref="char:EOLhyphen"/>vine
+<pb n="4" facs="tcp:167878:3"/>Providence ſo to determinate a ſtop to her boundleſs way, as to run her upon a ſhelve of ſand neer unto the bridge, other<g ref="char:EOLhyphen"/>wiſe thoſe ſtately Fabricks had been indan<g ref="char:EOLhyphen"/>gered to have been leveld with the lower<g ref="char:EOLhyphen"/>moſt Arches; for no ſooner was ſhe ſtrand<g ref="char:EOLhyphen"/>ed upon the ſands, but immediatly the fire ſeized on the powder, and thereupon the great blow was given, in which many loſt their lives; for by its mighty violence all the decks were blown up and rent aſunder, and the main maſt and miſne caſt up at a great diſtance, ſo that the ſhip was ſo diſjoynt<g ref="char:EOLhyphen"/>ed, that ſundry pieces thereof flew about upon the ſhore, making great devaſtation; and many were ſlain and hurt; amongſt the reſt, a Gentleman upon London bridge, as he was walking upon his Leades, hads his skul and brains all ſhattered to pieces: O<g ref="char:EOLhyphen"/>thers had their Head, Legs, and Arms ta<g ref="char:EOLhyphen"/>ken
+<pb n="5" facs="tcp:167878:3"/>off, and many ſacrificed their lives in the flames, whoſe names are ſaid to be as foloweth:
+<list>
+                  <item>Mr. John Thorowgood,</item>
+                  <item>Mr. Leonard Maſon,</item>
+                  <item>Mr. Thomas Atkinſon,</item>
+                  <item>Mr. Peter Ward,</item>
+                  <item>And James Anderton.</item>
+               </list>
+            </p>
+            <p>Beſides the houſes were moſt pitifully rent and torn, and ſo great a ſhrieking of men, women, and children, that the like hath not been heard in many Ages.</p>
+            <p>Notwithſtanding which ſad accident, the like danger by fire could not be prevented on Fryday the 21 inſtant; but about nine of the clock in the forenoon, another ſhip laden with Oyles, and other Commodities, lying at Freſh-Wharf was likewiſe ſuddenly blown up, the manner thus:</p>
+            <p>The ſhip being unlading, and a Merchants man going down with ſome of the Mariners into the lower Hold to look for ſome Goods, it ſo accident<g ref="char:EOLhyphen"/>ally hapned, that the ſnuff of a Candle falling, took
+<pb n="6" facs="tcp:167878:4"/>hold of the Gunpowder, and blew up certain Par<g ref="char:EOLhyphen"/>rels, which carryed away the whole ſteerage, Gun<g ref="char:EOLhyphen"/>room, and Maſters Cabin, and the force of the blow did likewiſe ſplit the Keel, ſo that the ſhip was im<g ref="char:EOLhyphen"/>mediatly fill'd with water, and great skreekings and doleful cryes there were aſhore, ſome having their Arms alſo taken off: Others, their Legs, Heads, and other parts of their bodies ſorely bruiſed &amp; brake; but that which ſeems the moſt dreadfu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, is, that a Gentlemans maid holding a little Child in her arms, about a twelve-month old, upon the Wharf ſide, received ſeveral wounds by ſplinters, and the poor Infant was blown from her, and never yet could be heard of.</p>
+            <p>Nay more, the terrour of the blow extended ſo far, that above 40 perſons were expoſed to great miſery, and are now made objects of pity and com<g ref="char:EOLhyphen"/>paſſion.</p>
+            <p>Yet thus much is obſervable, that when the blow was given, the windows ſhatter'd to pieces, and the houſes rent and torn, that two birds in their Cages, hanging neer, &amp; oppoſite againſt the Crane, where the blow had its greateſt force, were both preſerved ſafe, and not ſo much as a feather hurt.</p>
+            <p>The number of thoſe killed in this ſhip are ſaid
+<pb n="7" facs="tcp:167878:4"/>to be nine, viz.
+<list>
+                  <item>The Gunner,</item>
+                  <item>The Gunners Mate.</item>
+                  <item>A Pſalters man.</item>
+                  <item>The Boſtons Mate,</item>
+                  <item>The Carpenter,</item>
+                  <item>The Steward,</item>
+                  <item>And three more.</item>
+               </list>
+            </p>
+            <p>Great was the loſs likewiſe the day before, for di<g ref="char:EOLhyphen"/>vers were wounded as they paſſed over the bridge, yet (bleſſed be God) not a man hurt in the ſhip, for ſo ſoon as they perceived her a fire, the C<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ptain lea<g ref="char:EOLhyphen"/>ped out into the Thames, and ſwum for his life; the like did all the reſt; who got cleer off, except the Gunners wife, who being newly come aboard, and aſtoniſh'd at the fire, ran skreeking up and down the ſhip for her husband, inſomuch that the flames caught hold of her head-cloths, ſinged her hair, and ſcorched her face, but did her no other harm.</p>
+            <p>The loſs is exceeding great, and perilous to ma<g ref="char:EOLhyphen"/>ny; but ſo much the greater, by reaſon of the ta<g ref="char:EOLhyphen"/>king off many Gentlemen; amongſt the reſt, Mr. Fulner a Drapier upon London-bridge, coming to
+<pb n="8" facs="tcp:167878:5"/>his Neighbors houſe, to help get off certain goods, and to carry them at a further diſtance, by reaſon they feared the firing of that end of the bridge, at<g ref="char:EOLhyphen"/>tempted (with two other Gentlemen) to go up into a Gallery, to diſcover how neer the ſhip was, who immediatly thereupon ſtriking upon the ſands, the blow was given, and the ſhip blown up, whoſe ſplinters flew with ſuch vehemency, that a piece of his head was taken off, and his brains daſht againſt the walls: the other two Gentlemen were both hurt, but not mortal: beſides divers that were in boats, and other places; to the great aſtoniſhment of many hundreds. But tis hoped that care will be taken for the future to prevent theſe ſad accidents; and the rather, becauſe there is a great ſuſpition of ſome deſperate Conſpiracie agitating by the Por<g ref="char:EOLhyphen"/>tuglals; and that for this cauſe: That on Fryday laſt towards the Evening at Horſey-down, a Gen<g ref="char:EOLhyphen"/>tleman was apprehended, who had divers Fire<g ref="char:EOLhyphen"/>works about him; But upon examination, he was committed to ſafe cuſtody.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
